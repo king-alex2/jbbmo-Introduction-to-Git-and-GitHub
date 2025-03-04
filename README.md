@@ -14,4 +14,3 @@ Output
 ```
 
 2023 XYZ, Inc.
-git commit -m "Update footer year in README.md from 2022 to 2023"
